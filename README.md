@@ -7,7 +7,7 @@ A fun game in which you try to shoot targets that appear on your screen until yo
 ### Development platform: 
 OS: Windows 10, Game Engine: Unity 2020.3.17f1 LTS, Visual Studio 2019, 
 ### Target platform: 
-WebGL 
+WebGL: https://5ahmnm2122.github.io/Recap-Sfeld/
 ### Third party material: 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 **Sounds** 
